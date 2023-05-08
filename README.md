@@ -68,6 +68,16 @@ $ sudo make install
 ```
 <br> 
 
+
+### s3 설정 
+<br>
+
+* AWS IAM -> public, secret key 발급 후 os에 aws cli 설치 후 configure 실행 후 환경변수에 값 설정. 
+* 별도로 .env 파일이나 하드코딩해서 작업해도 상관은 없으나 s3 관련 로직은 수정해야함. 
+* 참고 :  https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html
+
+
+
 ### 가상화 & 학습  
 <br>
 
