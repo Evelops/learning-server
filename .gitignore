@@ -1,0 +1,6 @@
+data
+model
+news.csv
+__pycache__
+review_w2v
+.env

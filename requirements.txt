@@ -1,0 +1,9 @@
+pandas
+numpy 
+boto3
+certifi
+gensim
+tqdm
+urllib3
+python-dotenv
+konlpy
