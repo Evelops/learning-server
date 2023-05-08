@@ -134,7 +134,7 @@ $ 0 19 * * * /bin/bash -c 'source /home/recsys/bin/activate && python /home/recs
 <br>
 
 * 별도로 가상화 시킬 필요없이 코드 + .env 파일에 환경변수만 잘 정의해주면 됨. 
-* recsys-prac 부분에서 csv import 하는 부분만 제거하고 DB 연결 하는 부분만 변경하면 됨. 
+* [recsys-prac](https://github.com/Evelops/recsys-prac) 부분에서 csv import 하는 부분만 제거하고 DB 연결 하는 부분만 변경하면 됨. 
 
 <br>
 
